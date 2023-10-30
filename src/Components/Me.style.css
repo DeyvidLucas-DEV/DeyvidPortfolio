@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;0,700;1,600&family=Poppins:wght@800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ProjectApresentattion {
+    background-color: #2E4374;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 17vh;
+}
+
+.leftText {
+    
+    width: 50%;
+    color: white;
+    font-weight: 600; 
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 35px;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+
+}
+
+
+

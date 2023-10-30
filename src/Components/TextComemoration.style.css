@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;700&family=Poppins:wght@800&display=swap');
+
+.TextContentBanner{
+    
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #ff0000, #924400,#d35602,#d35602,#924400,#ff0000);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.NewYearBanner{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #ffffff, #ffec99,#f6ff00,#f6ff00,#ffec99,#ffffff);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Carnaval{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #3c00ff, #9187fd,#ff0000,#ff0000,#9187fd,#3c00ff);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Florest{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #015818, #02a22d,#04e23f,#04e23f,#02a22d,#015818);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    white-space: pre-line;
+}
+
+.Trabalhador{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #fafafa, #75caf5,#0091ff,#0091ff,#75caf5,#fafafa);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    white-space: pre-line;
+}
+
+.Namorados{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #000000, #700000,#ff0000,#ff0000,#700000,#000000);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    white-space: pre-line;
+}
+
+.Independencia{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    background: linear-gradient(45deg, #d4ff00, #008f0c,#02690a,#02690a,#008f0c,#d4ff00);
+    background-size: 400% 100%;
+    animation: linears 20s linear infinite alternate ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    white-space: pre-line;
+}

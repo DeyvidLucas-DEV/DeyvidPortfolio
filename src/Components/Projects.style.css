@@ -1,0 +1,25 @@
+.containerProject{
+    height: 100vh;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://2.bp.blogspot.com/-nfktHzTnDFA/XIezy3cQ9fI/AAAAAAAAG6Q/xuImbWizwEMye3peYx0eSL8JKcda82GYACEwYBhgL/s1600/4K%2BLandscape%2BWallpaper%2B129.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.cardsProject{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+
+}

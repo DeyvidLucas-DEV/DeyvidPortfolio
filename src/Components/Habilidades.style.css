@@ -1,0 +1,58 @@
+.HabilidadeContainer{
+    height: 1400px;
+    padding: 90px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    
+}
+.FigurasHabilidades{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    word-wrap: normal;
+    height: 200px;
+    gap: 50px;
+    
+}
+.TopImages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.BottomImagens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.HabilityImagem{
+    height: 90px;
+}
+.ProgressbarsContainer{
+    display: grid;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    grid-template-columns: 200px 200px 200px;
+   
+    
+}
+.NameHability{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.GridContainer{
+    height: 100%;
+    width: 100%;
+}

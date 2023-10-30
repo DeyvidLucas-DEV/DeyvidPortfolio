@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;0,700;1,600&family=Poppins:wght@800&display=swap");
+.containerAp {
+  display: flex;
+  justify-content: space-around;
+  height:90vh;
+  overflow: hidden;
+  background-image: url(../assets/Banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.photo {
+  height: 500px;
+  border-radius: 100%;
+}
+.PhotoContainer {
+  width: 50%;
+}
+.TextApresentation {
+  width: 50%;
+  display: flex;
+  padding: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.TextAp {
+  font-size: 24px;
+  font-family: "Nunito", sans-serif;
+  color: white;
+  transition: 0.6s;
+  visibility: hidden;
+}
+
+.TextAp:hover {
+  transform: scale(1.2);
+  color: rgb(253, 158, 158);
+  
+  
+}
